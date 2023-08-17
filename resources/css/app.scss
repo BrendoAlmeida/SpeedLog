@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+
+.admin-back-arrow{
+    position: absolute;
+    top: 146px;
+    left: 320px;
+    z-index: 1000;
+}
+
+.admin-back-arrow a {
+    color: black;
+    font-size: 40px;
+}
+
