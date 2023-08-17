@@ -16,10 +16,6 @@ O objetivo principal do SpeedLog é fornecer uma plataforma online para agendame
 - Integração com o componente de interface laravel/breeze.
 - Validação de campos em português utilizando laravellegends/pt-br-validator.
 
-## Capturas de Tela
-
-*(Inclua capturas de tela relevantes para ilustrar a interface e funcionalidades do projeto.)*
-
 ## Instalação
 
 1. Clone este repositório para o seu ambiente local.
